@@ -9,6 +9,9 @@ from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 from sklearn.feature_extraction.text import CountVectorizer
 
+# Download NLTK data
+nltk.download('punkt')
+
 # Load NLTK resources
 nltk.download('stopwords')
 
