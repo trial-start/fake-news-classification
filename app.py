@@ -73,7 +73,7 @@ def main():
     
     # Footer
     st.sidebar.markdown("---")
-    st.sidebar.write("Developed by [Your Name]")
+    st.sidebar.write("Developed by E.Sai Sushanth]")
     st.sidebar.write("Find the code on [GitHub](https://github.com/yourusername/your-repo)")
 
 if __name__ == "__main__":
